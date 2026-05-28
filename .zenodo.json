@@ -18,5 +18,11 @@
     "FastSpecFit"
   ],
   "license": "MIT",
-  "related_identifiers": []
+  "related_identifiers": [
+    {
+      "relation": "isVersionOf",
+      "identifier": "10.5281/zenodo.20433867",
+      "scheme": "doi"
+    }
+  ]
 }

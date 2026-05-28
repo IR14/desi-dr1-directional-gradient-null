@@ -9,6 +9,8 @@ High-Redshift Quasar Observables**
 Author: I. Mikhailov  
 Date: 2026-05-28
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433867.svg)](https://doi.org/10.5281/zenodo.20433867)
+
 ## Scope
 
 This is a reproducible observational null-result package. It tests whether
@@ -132,9 +134,13 @@ the audited outputs for the manuscript.
 ## Citation
 
 Please cite the archived software release and the accompanying preprint when
-using this package. Citation metadata are provided in `CITATION.cff`. If a
-Zenodo DOI is available for the release, prefer the DOI over a plain repository
-URL.
+using this package. Citation metadata are provided in `CITATION.cff`.
+
+Archived release DOI:
+
+```text
+10.5281/zenodo.20433867
+```
 
 ## Scientific Interpretation
 

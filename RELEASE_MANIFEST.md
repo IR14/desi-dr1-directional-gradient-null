@@ -1,8 +1,14 @@
 # Release Manifest
 
 Package: `desi-dr1-directional-gradient-null`  
-Version: `0.1.1`  
+Version: `0.1.2`  
 Prepared: 2026-05-28
+
+Archived release DOI for `v0.1.1-desi-dr1-null`:
+
+```text
+10.5281/zenodo.20433867
+```
 
 ## Included
 

@@ -6,7 +6,8 @@ authors:
   - family-names: Mikhailov
     given-names: I.
     affiliation: "Independent Researcher, Moscow, Russia"
-version: "0.1.1"
+version: "0.1.2"
+doi: "10.5281/zenodo.20433867"
 date-released: "2026-05-28"
 repository-code: "https://github.com/IR14/desi-dr1-directional-gradient-null"
 keywords:
