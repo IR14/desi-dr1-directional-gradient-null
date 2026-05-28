@@ -1,0 +1,49 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Build artifacts
+build/
+dist/
+site/
+
+# Local data and large generated products
+data/raw/**
+data/interim/**
+data/processed/**
+data/external/**
+*.fits
+*.fits.gz
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Logs and local process state
+logs/
+*.log
+*.pid
+
+# LaTeX temporary files
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.xdv
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+

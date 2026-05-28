@@ -1,0 +1,29 @@
+{
+  "title": "A DESI DR1 Search for Directional Gradients in Galaxy Population and High-Redshift Quasar Observables",
+  "upload_type": "software",
+  "description": "Manuscript source, analysis code, and small derived artifacts for a DESI DR1 null-result search for large-scale directional gradients in LSS density, FastSpecFit galaxy-population residuals, and high-redshift QSO line observables.",
+  "creators": [
+    {
+      "name": "Mikhailov, I.",
+      "affiliation": "Independent Researcher, Moscow, Russia"
+    }
+  ],
+  "keywords": [
+    "DESI",
+    "cosmology",
+    "large-scale structure",
+    "statistical isotropy",
+    "directional gradients",
+    "HEALPix",
+    "FastSpecFit"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://arxiv.org/abs/REPLACE_AFTER_ARXIV_SUBMISSION",
+      "scheme": "url"
+    }
+  ]
+}
+

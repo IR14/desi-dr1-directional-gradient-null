@@ -1,0 +1,6 @@
+kind,observable,n_joined,n_finite_residual,amplitude,ra_deg,dec_deg,monopole,block_null_p_value,block_null_mocks,block_null_regions,controls,term,coefficient
+dipole,DN4000_MODEL,342791.0,342791.0,0.07522013870722569,247.0564785437394,38.15027937465149,-0.025931130352702555,0.4091816367265469,500.0,48.0,z;z2;LOGMSTAR,,
+coefficient,DN4000_MODEL,,,,,,,,,,,intercept,1.7170401652171017
+coefficient,DN4000_MODEL,,,,,,,,,,,z,0.36911179391163523
+coefficient,DN4000_MODEL,,,,,,,,,,,z2,-0.39837481392526697
+coefficient,DN4000_MODEL,,,,,,,,,,,LOGMSTAR,-0.08925072057439634

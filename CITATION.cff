@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "A DESI DR1 Search for Directional Gradients in Galaxy Population and High-Redshift Quasar Observables"
+message: "If you use this analysis package, please cite the archived release and the accompanying preprint."
+type: software
+authors:
+  - family-names: Mikhailov
+    given-names: I.
+    affiliation: "Independent Researcher, Moscow, Russia"
+version: "0.1.0"
+date-released: "2026-05-28"
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/desi-dr1-directional-gradient-null"
+keywords:
+  - DESI
+  - cosmology
+  - large-scale structure
+  - isotropy
+  - directional gradients
+  - HEALPix
+  - FastSpecFit
+license: MIT
+
