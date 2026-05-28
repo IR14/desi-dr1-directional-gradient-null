@@ -18,12 +18,5 @@
     "FastSpecFit"
   ],
   "license": "MIT",
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://arxiv.org/abs/REPLACE_AFTER_ARXIV_SUBMISSION",
-      "scheme": "url"
-    }
-  ]
+  "related_identifiers": []
 }
-

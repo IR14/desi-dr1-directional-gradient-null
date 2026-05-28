@@ -6,9 +6,9 @@ authors:
   - family-names: Mikhailov
     given-names: I.
     affiliation: "Independent Researcher, Moscow, Russia"
-version: "0.1.0"
+version: "0.1.1"
 date-released: "2026-05-28"
-repository-code: "https://github.com/REPLACE_WITH_USERNAME/desi-dr1-directional-gradient-null"
+repository-code: "https://github.com/IR14/desi-dr1-directional-gradient-null"
 keywords:
   - DESI
   - cosmology
@@ -18,4 +18,3 @@ keywords:
   - HEALPix
   - FastSpecFit
 license: MIT
-

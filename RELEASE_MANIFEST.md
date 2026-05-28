@@ -1,6 +1,7 @@
 # Release Manifest
 
 Package: `desi-dr1-directional-gradient-null`  
+Version: `0.1.1`  
 Prepared: 2026-05-28
 
 ## Included
@@ -46,4 +47,3 @@ paper/main_ru.tex: balanced document/table/math environments
 ```
 
 No files larger than 10 MB are included.
-
