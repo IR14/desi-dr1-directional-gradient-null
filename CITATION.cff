@@ -1,15 +1,16 @@
 cff-version: 1.2.0
 title: "A DESI DR1 Search for Directional Gradients in Galaxy Population and High-Redshift Quasar Observables"
-message: "If you use this analysis package, please cite the archived release and the accompanying preprint."
+message: "If you use this analysis package, please cite the archived software release and the accompanying preprint."
 type: software
 authors:
   - family-names: Mikhailov
     given-names: I.
     affiliation: "Independent Researcher, Moscow, Russia"
-version: "0.1.2"
-doi: "10.5281/zenodo.20433867"
+version: "0.1.3"
+doi: "10.5281/zenodo.20433884"
 date-released: "2026-05-28"
 repository-code: "https://github.com/IR14/desi-dr1-directional-gradient-null"
+abstract: "Reproducible DESI DR1 null-result package for testing large-scale directional gradients in LSS density, FastSpecFit galaxy-population residuals, and high-redshift QSO line observables."
 keywords:
   - DESI
   - cosmology
@@ -19,3 +20,14 @@ keywords:
   - HEALPix
   - FastSpecFit
 license: MIT
+preferred-citation:
+  type: article
+  title: "A DESI DR1 Search for Directional Gradients in Galaxy Population and High-Redshift Quasar Observables"
+  authors:
+    - family-names: Mikhailov
+      given-names: I.
+      affiliation: "Independent Researcher, Moscow, Russia"
+  doi: "10.5281/zenodo.20436979"
+  date-released: "2026-05-29"
+  publisher:
+    name: Zenodo

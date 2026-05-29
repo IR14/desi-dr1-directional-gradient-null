@@ -9,7 +9,14 @@ High-Redshift Quasar Observables**
 Author: I. Mikhailov  
 Date: 2026-05-28
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433867.svg)](https://doi.org/10.5281/zenodo.20433867)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20433884.svg)](https://doi.org/10.5281/zenodo.20433884)
+[![Preprint DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20436979.svg)](https://doi.org/10.5281/zenodo.20436979)
+
+## DOI Records
+
+- Preprint DOI: [`10.5281/zenodo.20436979`](https://doi.org/10.5281/zenodo.20436979)
+- Software/reproducibility package DOI:
+  [`10.5281/zenodo.20433884`](https://doi.org/10.5281/zenodo.20433884)
 
 ## Scope
 
@@ -144,7 +151,13 @@ using this package. Citation metadata are provided in `CITATION.cff`.
 Archived release DOI:
 
 ```text
-10.5281/zenodo.20433867
+10.5281/zenodo.20433884
+```
+
+Preprint DOI:
+
+```text
+10.5281/zenodo.20436979
 ```
 
 ## Scientific Interpretation
