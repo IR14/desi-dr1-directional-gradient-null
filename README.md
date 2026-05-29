@@ -33,6 +33,7 @@ catalogs.
 ```text
 paper/
   main.tex        # English manuscript source
+  main.pdf        # compiled English manuscript PDF
   main_ru.tex     # Russian working translation
 
 src/
@@ -103,6 +104,10 @@ pdflatex -interaction=nonstopmode main.tex
 ```
 
 The same `paper/main.tex` can be uploaded directly to Overleaf.
+
+The compiled English PDF is included at `paper/main.pdf`. The Russian
+translation source is included as `paper/main_ru.tex`; export it separately from
+Overleaf if a Russian PDF is required for a later release.
 
 ## Reproduction Commands
 
